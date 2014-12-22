@@ -1,0 +1,9 @@
+c:\users\larion\documents\visual studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\bin\Debug\QuadcopterControlSerialPort.exe.config
+c:\users\larion\documents\visual studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\bin\Debug\QuadcopterControlSerialPort.exe
+c:\users\larion\documents\visual studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\bin\Debug\QuadcopterControlSerialPort.pdb
+c:\users\larion\documents\visual studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\obj\Debug\QuadcopterControlSerialPort.Form1.resources
+c:\users\larion\documents\visual studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\obj\Debug\QuadcopterControlSerialPort.Properties.Resources.resources
+c:\users\larion\documents\visual studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\obj\Debug\QuadcopterControlSerialPort.csproj.GenerateResource.Cache
+c:\users\larion\documents\visual studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\obj\Debug\QuadcopterControlSerialPort.exe
+c:\users\larion\documents\visual studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\obj\Debug\QuadcopterControlSerialPort.pdb
+C:\Users\Larion\Documents\Visual Studio 2013\Projects\QuadcopterControlSerialPort\QuadcopterControlSerialPort\obj\Debug\QuadcopterControlSerialPort.csprojResolveAssemblyReference.cache
